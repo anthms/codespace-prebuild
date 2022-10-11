@@ -5,7 +5,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "anthms/codespace-prebuild": {
+        "anthms/debug-runner": {
           "permissions": "read-all"
         }
       }
