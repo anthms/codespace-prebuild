@@ -5,7 +5,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "Zahlen-Group/ei": {
+        "anthms/codespace-prebuild": {
           "permissions": "read-all"
         }
       }
