@@ -6,10 +6,22 @@
     "codespaces": {
       "repositories": {
         "anthms/debug-runner": {
-          "permissions": "read-all"
+          "permissions": {
+            "actions": "read",
+            "checks": "read",
+            "contents": "read",
+            "deployments": "read",
+            "discussions": "read",
+            "issues": "read",
+            "packages": "read",
+            "pages": "read",
+            "pull_requests": "read",
+            "repository_projects": "read",
+            "statuses": "read",
+            "workflows": "read"
+          }
         }
       }
     }
-  },
-  "postCreateCommand": ".devcontainer/script.sh"
+  }
 }
