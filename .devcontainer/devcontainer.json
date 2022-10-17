@@ -10,5 +10,6 @@
         }
       }
     }
-  }
+  },
+  "postCreateCommand": ".devcontainer/script.sh"
 }
