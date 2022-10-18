@@ -13,5 +13,5 @@
       }
     }
   },
-  "onCreateCommand": "bash .devcontainer/script.sh"
+  "postCreateCommand": "bash .devcontainer/script.sh"
 }
