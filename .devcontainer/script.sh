@@ -1,6 +1,7 @@
 #/usr/bin/env bash
 
-cd ext
+mkdir devFold
+cd devFold
 git clone https://github.com/anthms/debug-runner.git
 
 cd debug-runner
